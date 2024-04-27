@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download CV
         url: uploads/resume.pdf
     design:
       banner:
@@ -25,7 +25,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: research
     content:
       username: admin
     design:
