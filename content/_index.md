@@ -14,7 +14,6 @@ sections:
   - block: biography
     content:
       username: admin
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -27,18 +26,15 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
-      title: Research
+      title: Research Experience
       username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
   - block: skills
     content:
       title: Skills hello
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Media
       username: admin
     
 ---
