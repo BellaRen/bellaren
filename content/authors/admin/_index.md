@@ -40,8 +40,8 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
-research:
-  - area: PhD Artificial Intelligence
+education:
+  - area: test
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
