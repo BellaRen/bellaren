@@ -40,9 +40,9 @@ profiles:
 #    url: https://www.instagram.com/
 
 Research:
-  - area: Disagreement Gets Mistaken for Bad Listening
-    institution: Psychological Science, 2024
-    summary: |
+  - title: Disagreement Gets Mistaken for Bad Listening
+    journal: Psychological Science, 2024
+    abstract: |
       It is important for people to feel listened to in professional and personal communications, and yet they can feel unheard even when others have listened well. We propose that this feeling may arise because speakers conflate agreement with listening quality. In 11 studies (N = 3,396 adults), we held constant or manipulated a listener’s objective listening behaviors, manipulating only after the conversation whether the listener agreed with the speaker. Across various topics, mediums (e.g., video, chat), and cues of objective listening quality, speakers consistently perceived disagreeing listeners as worse listeners. This effect persisted after controlling for other positive impressions of the listener (e.g., likability). This effect seemed to emerge because speakers believe their views are correct, leading them to infer that a disagreeing listener must not have been listening very well. Indeed, it may be prohibitively difficult for someone to simultaneously convey that they disagree and that they were listening.
     button:
       text: 'Read Paper'
