@@ -39,16 +39,14 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+Research on Conversational Dynamics:
+  - area: Disagreement Gets Mistaken for Bad Listening
+    institution: Psychological Science, 2024
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      It is important for people to feel listened to in professional and personal communications, and yet they can feel unheard even when others have listened well. We propose that this feeling may arise because speakers conflate agreement with listening quality. In 11 studies (N = 3,396 adults), we held constant or manipulated a listener’s objective listening behaviors, manipulating only after the conversation whether the listener agreed with the speaker. Across various topics, mediums (e.g., video, chat), and cues of objective listening quality, speakers consistently perceived disagreeing listeners as worse listeners. This effect persisted after controlling for other positive impressions of the listener (e.g., likability). This effect seemed to emerge because speakers believe their views are correct, leading them to infer that a disagreeing listener must not have been listening very well. Indeed, it may be prohibitively difficult for someone to simultaneously convey that they disagree and that they were listening.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Paper'
+      url: 'https://journals.sagepub.com/doi/pdf/10.1177/09567976241239935'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -169,4 +167,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-In my work, I seek to facilitate effective information exchange by understanding how people communicate disagreement and divergent opinions in conversations. I also study negotiations. 
+I study conversational dynamics and negotiations. In my research, I seek to facilitate effective information exchange by understanding how people communicate disagreement and divergent opinions in conversations.
