@@ -34,10 +34,11 @@ sections:
       date_format: 'January 2006'
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills hello
       username: admin
   - block: awards
     content:
       title: Awards
       username: admin
+    
 ---
