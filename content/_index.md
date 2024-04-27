@@ -1,5 +1,5 @@
 ---
-title: 'BellaRen'
+title: 'Home'
 date: 2023-10-24
 type: landing
 
@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Résumé
         url: uploads/resume.pdf
     design:
       banner:
@@ -25,7 +25,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: Research
+  - block: experience
     content:
       username: admin
     design:
@@ -37,9 +37,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: media
+  - block: awards
     content:
-      title: Media
+      title: Awards
       username: admin
   - block: languages
     content:
