@@ -27,6 +27,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
+      title: Research
       username: admin
     design:
       # Hugo date format
@@ -39,9 +40,4 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: markdown
-    content:
-      title: Research
-      subtitle: A subtitle
-      text: testing!
 ---
