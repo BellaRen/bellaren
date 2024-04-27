@@ -13,3 +13,10 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: Tags
+    identifier: tags
+    weight: 20
+  - name: Academic
+    parent: tags
+    url: tags/academic/
+    weight: 10
