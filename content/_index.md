@@ -24,14 +24,6 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
-    content:
-      title: Research Experience
-      username: admin
-  - block: skills
-    content:
-      title: Skills hello
-      username: admin
   - block: awards
     content:
       title: Media
