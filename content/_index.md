@@ -25,7 +25,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: Research on Conversational Dynamics
+  - block: Research
     content:
       username: admin
     design:
@@ -37,9 +37,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
+  - block: media
     content:
-      title: Awards
+      title: Media
       username: admin
   - block: languages
     content:
