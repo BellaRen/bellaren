@@ -1,32 +1,40 @@
 ---
-title: 'Home'
-date: 2023-10-24
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
 type: landing
 
-design:
-  # Default section spacing
-  spacing: "4rem"
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
-  - block: biography
+  - block: about.avatar
     content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      text: 
     design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
+  - block: markdown
+    content:
+      title: 'Welcome 👋'
+      subtitle: ''
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+    design:
+      columns: '1'
   - block: collection
     content:
-      title: Publications
+      title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -50,9 +58,4 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
-  - block: awards
-    content:
-      title: Media
-      username: admin
-    
 ---
