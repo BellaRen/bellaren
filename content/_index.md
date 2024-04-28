@@ -25,36 +25,30 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
-    id: posts
     content:
-      title: Recent Posts
+      title: Publications
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
-        # The folders to display content from
-        folders:
-          - post
         author: ""
         category: ""
         tag: ""
-        publication_type: ""
-        featured_only: false
         exclude_featured: false
         exclude_future: false
         exclude_past: false
+        publication_type: ""
       # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
       offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      # Choose a listing view
+      # Choose a layout view
       view: compact
-      # Choose single or dual column layout
       columns: '1'
   - block: awards
     content:
